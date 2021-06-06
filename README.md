@@ -1,5 +1,7 @@
 # metronomo
 
+<img src="metronome.gif">
+
 A new Flutter project.
 
 ## Getting Started
